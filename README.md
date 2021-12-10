@@ -1,5 +1,5 @@
-# micro_usb_skirt_plug
- extender for micro usb to a voron skirt
+# micro_sd_skirt_plug
+ extender for micro sd to a voron skirt
  modded from the rama ADXL plug located on their git https://github.com/Ramalama2/Voron-2-Mods
 
 BOM 
